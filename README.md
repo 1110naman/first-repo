@@ -1,2 +1,2 @@
 # first-repo
-I will learn git and github basics in this repo
+I will learn git & github basics in this repo
